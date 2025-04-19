@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+.env
+
+# React Native (Expo)
+.expo/
+.expo-shared/
+
+# React Web
+client/build/
+
+# Editor files
+.vscode/
+
+# System files
+.DS_Store
+Thumbs
